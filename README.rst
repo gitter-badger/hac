@@ -204,3 +204,8 @@ Please see `LICENSE <https://github.com/plesiv/hac/blob/master/LICENSE>`_.
 .. |code_quality| image:: https://img.shields.io/codacy/0e405bf71d584768aabd44b82f6f4e47.svg?style=plastic
    :target: https://www.codacy.com/app/z_2/hac/files
    :alt: Code Quality
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/plesiv/hac
+   :target: https://gitter.im/plesiv/hac?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
